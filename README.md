@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in 6th semester<br>🤝 I’m looking for help with getting started in open source<br>🌱 I’m currently learning MERN stack and C++
+🔭 I’m currently in 6th semester<br>🤝 I’m looking for help with getting started in open source<br>🌱 I’m still trying to learn Web
 
 
 ## 🌐 Socials:
