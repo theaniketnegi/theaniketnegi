@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aniket Negi and I'm an upcoming intern at Morgan Stanley</p>
+<p align="left">My name is Aniket Negi and I'm currently interning at Morgan Stanley</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently experimenting with Web and C.<br>🎯 Goals: Learning more and more<br>🎲 Hobbies: I'm a 3D artist</p>
+<p align="left">📚 I'm currently exploring Golang.<br>🎯 Goals: Learning more and more<br>🎲 Hobbies: I'm a 3D artist</p>
 
 ###
 
